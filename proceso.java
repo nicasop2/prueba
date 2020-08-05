@@ -12,6 +12,7 @@ public class proceso extends Thread {
 			System.out.println("Ejecuci�n Proceso " + this.getName());
 			System.out.println("PruebaCAmbio");
 			System.out.println("PruebaCAmbio1");
+			System.out.println("PruebaCAmbio2");
 		}
 	}
 }
