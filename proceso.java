@@ -10,6 +10,7 @@ public class proceso extends Thread {
 	public void run() {
 		for (int i = 0; i <= 10; i++) {
 			System.out.println("Ejecuci�n Proceso " + this.getName());
+			System.out.println("PruebaCAmbio");
 		}
 	}
 }
