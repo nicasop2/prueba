@@ -9,7 +9,5 @@ public class principal {
 		hilo1.start();
 		hilo2.start();
 		hilo3.start();
-		//asdfasdf
-		//este comentario es una prueba para hacer pull en un programa
 	}
 }
